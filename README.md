@@ -9,20 +9,20 @@
 
 月价 = 最低档套餐折合每月价格；在线节点 = 本站检测时在线数 / 节点总数（— 表示未检测）。
 
-| # | 机场 | 线路 | 月价 | 流量 | 在线节点 | 优惠码 | 评分 | 官网 |
-|:-:|---|---|---|---|:-:|---|:-:|:-:|
-| 1 | **[SOGO云](https://clashjichang.com.cn/ceping/sogo/)** 主推 | IEPL专线 | ¥8.2 | 60GB/月 | 60/60 | `sogo10000` | 9.4 | [官网](https://clashjichang.com.cn/go/sogo/) |
-| 2 | [飞猫云](https://clashjichang.com.cn/ceping/feimaoyun/) | IEPL专线 | ¥7.0 | 50GB/月 | 60/63 | `flycat888` | 9.1 | [官网](https://clashjichang.com.cn/go/feimaoyun/) |
-| 3 | [暮光](https://clashjichang.com.cn/ceping/muguang/) | IEPL 专线 | ¥9.1 | 70GB/月 | — | `mm88` | 8.8 | [官网](https://clashjichang.com.cn/go/muguang/) |
-| 4 | [微风](https://clashjichang.com.cn/ceping/weifeng/) | IEPL专线 | ¥11.4 | 100GB/月 | — | `weifeng90` | 8.8 | [官网](https://clashjichang.com.cn/go/weifeng/) |
-| 5 | [大佬云](https://clashjichang.com.cn/ceping/dalaoyun/) | IPLC 专线 / IEPL 专线 | ¥8.0 | 60GB/月 | 50/50 | `dly888` | 8.7 | [官网](https://clashjichang.com.cn/go/dalaoyun/) |
-| 6 | [宇宙云](https://clashjichang.com.cn/ceping/yuzhouyun/) | IEPL专线 | ¥8.0 | 60GB/月 | — | `YUZHOU553` | 8.5 | [官网](https://clashjichang.com.cn/go/yuzhouyun/) |
-| 7 | [光速云](https://clashjichang.com.cn/ceping/guangsuyun/) | IEPL专线 | ¥8.2 | 59GB/月 | 67/69 | `AMM` | 8.5 | [官网](https://clashjichang.com.cn/go/guangsuyun/) |
-| 8 | [二猫云](https://clashjichang.com.cn/ceping/ermaoyun/) | IEPL专线 | ¥7.4 | 60GB/月 | 60/60 | `ermao888` | 8.4 | [官网](https://clashjichang.com.cn/go/ermaoyun/) |
-| 9 | [星岛梦](https://clashjichang.com.cn/ceping/xingdaomeng/) | 企业级内网专线 | ¥8.0 | 60GB/月 | 63/69 | `nmw888` | 8.5 | [官网](https://clashjichang.com.cn/go/xingdaomeng/) |
-| 10 | [一翻云](https://clashjichang.com.cn/ceping/yifanyun/) | IEPL 专线 | ¥8.2 | 60GB/月 | 72/72 | `1FLYYUN` | 8.2 | [官网](https://clashjichang.com.cn/go/yifanyun/) |
-| 11 | [Firefly](https://clashjichang.com.cn/ceping/firefly/) | IEPL专线 | ¥8.0 | 60GB/月 | 47/49 | `firefly` | 8.0 | [官网](https://clashjichang.com.cn/go/firefly/) |
-| 12 | [无忧](https://clashjichang.com.cn/ceping/wuyou/) | IEPL专线 | ¥6.6 | 40GB/月 | 36/49 | `wuyou` | 8.0 | [官网](https://clashjichang.com.cn/go/wuyou/) |
+| # | 机场 | 线路 | 月价 | 流量 | 在线节点 | 优惠码 | 评分 |
+|:-:|---|---|---|---|:-:|---|:-:|
+| 1 | **[SOGO云](https://clashjichang.com.cn/ceping/sogo/)** 主推 | IEPL / IPLC 专线 | ¥8.2 | 60GB/月 | 60/60 | `sogo10000` | 9.4 |
+| 2 | [飞猫云](https://clashjichang.com.cn/ceping/feimaoyun/) | IPLC 专线 | ¥7.0 | 50GB/月 | 60/63 | `flycat888` | 9.1 |
+| 3 | [暮光](https://clashjichang.com.cn/ceping/muguang/) | BGP 中转 | ¥9.1 | 70GB/月 | — | `mm88` | 8.8 |
+| 4 | [微风](https://clashjichang.com.cn/ceping/weifeng/) | IPLC 专线 | ¥11.4 | 100GB/月 | — | `weifeng90` | 8.8 |
+| 5 | [大佬云](https://clashjichang.com.cn/ceping/dalaoyun/) | IPLC 专线 / IEPL 专线 | ¥8.0 | 60GB/月 | 50/50 | `dly888` | 8.7 |
+| 6 | [宇宙云](https://clashjichang.com.cn/ceping/yuzhouyun/) | IEPL / IPLC 专线 | ¥8.0 | 60GB/月 | — | `YUZHOU553` | 8.5 |
+| 7 | [光速云](https://clashjichang.com.cn/ceping/guangsuyun/) | IPLC 专线 | ¥8.2 | 59GB/月 | 67/69 | `AMM` | 8.5 |
+| 8 | [二猫云](https://clashjichang.com.cn/ceping/ermaoyun/) | IEPL 专线 | ¥7.4 | 60GB/月 | 60/60 | `ermao888` | 8.4 |
+| 9 | [星岛梦](https://clashjichang.com.cn/ceping/xingdaomeng/) | IEPL / IPLC 专线 | ¥8.0 | 60GB/月 | 63/69 | `nmw888` | 8.5 |
+| 10 | [一翻云](https://clashjichang.com.cn/ceping/yifanyun/) | IEPL 专线 | ¥8.2 | 60GB/月 | 72/72 | `1FLYYUN` | 8.2 |
+| 11 | [Firefly](https://clashjichang.com.cn/ceping/firefly/) | IPLC 专线 | ¥8.0 | 60GB/月 | 47/49 | `firefly` | 8.0 |
+| 12 | [无忧](https://clashjichang.com.cn/ceping/wuyou/) | IPLC 专线 | ¥6.6 | 40GB/月 | 36/49 | `wuyou` | 8.0 |
 
 完整 29 家排名见 **[机场排行榜](https://clashjichang.com.cn/jichang-paihangbang/)**。
 
